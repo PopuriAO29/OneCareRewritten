@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Label1.Text" xml:space="preserve">
-    <value>Disclaimer: This installer has no direct relation to Microsoft and is soley a community 
+    <value>DISCLAIMER: This installer has no direct relation to Microsoft and is soley a community 
 project to bring back OneCare. Windows, Windows Live, The Windows Logo and OneCare are registered trademarks
 of Microsoft Corporation and have no affliation with the Windows Live OneCare Rewritten Installer Project.</value>
   </data>
@@ -126,9 +126,9 @@ of Microsoft Corporation and have no affliation with the Windows Live OneCare Re
     <value>Reviewing Microsoft's warning, all assets including the original OneCare logo and the installer
 banner are protected by copyright.
 
-Unauthorised Reproduction or re-distribution of them could lead them to potentially sue me which I don't want.
+Unauthorized Reproduction or re-distribution of them could lead them to potentially sue me which I don't want.
 
-I do realise this new installer makes things look very industrial, but it's for my own protection to keep
+I do realize this new installer makes things look very industrial, but it's for my own protection to keep
 this project alive.</value>
   </data>
   <data name="Label8.Text" xml:space="preserve">
@@ -152,7 +152,7 @@ to restart.
 
 That's it. Push Install below!
 
-Disclaimer: You're installing this software at your own risk. It's old, contains outdated signatures and 
+DISCLAIMER: You're installing this software at your own risk. It is old, contains outdated signatures and 
 absolutely should NOT be used on a live system. No guarantee's or warranties are provided,
 furthermore, any damages done to you, your computer, your system or other present systems are 
 not the responsibility of the software creator, developers, distributors or maintainers. 
@@ -161,9 +161,9 @@ No support is provided for this.</value>
   <data name="Label11.Text" xml:space="preserve">
     <value>Looking to uninstall Windows Live OneCare from your computer?
 
-This installer unfortunately cannot do this.
+Unfortunately, the installer cannot do this.
 
-However, this can be achieved from control panel. Click the button
+However, this can be achieved from Control Panel. Click the button
 below to launch Programs and Features so you can uninstall OneCare.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
