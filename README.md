@@ -4,7 +4,7 @@
 yet to finalize the code, due to this, Windows XP (Specifically the x64 version) has no support. Normal Windows XP 32-bit is fully supported, along with Vista.</p>
 <h3>Getting Started</h3>
 <p>Head over to the <a href="https://github.com/cvxvi2/OneCareRewritten/releases">releases tab</a> and grab the latest release.</p>
-<p><b>Windows XP Users Warning:</b> If you are running on Windows XP, please install .net 3.5 AND .net 4.0. Failing to do so will result in "Could not find compatible runtime to run this program" after installing OneCare.</p>
+<p><b>Windows XP Users Warning:</b> If you are running on Windows XP, please install dotNET Framework 3.5 AND dotNET Framework 4.0. Failing to do so will result in "Could not find compatible runtime to run this program" after installing OneCare.</p>
 <p>Insert your OneCare disc, and cancel any popups that show.</p>
 <p>Launch OneCare Rewritten and follow the onscreen instructions to install.</p>
 <h3>What does this do?</h3>
