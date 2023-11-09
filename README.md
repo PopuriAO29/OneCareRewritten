@@ -21,8 +21,8 @@ yet to finalize the code, due to this, Windows XP (Specifically the x64 version)
 <p>All other versions currently won't work, likewise for Server 2008/R2. If anyone has an image of OneCare for Server, please let me know so I can look at adding support for this. XP support is now functional.</p>
 <h3>Project Properties</h3>
 <p>Platform: x86/32-bit</p>
-<p>Targetting Framework: .net 4.0</p>
-<p>Visual Studio 2019 Community (2022 doesn't support legacy .net versions natively)</p>
+<p>Targetting Framework: dotNET Framework 4.0</p>
+<p>Visual Studio 2019 Community (2022 doesn't support legacy dotNET versions natively)</p>
 <h2>FAQ</h2>
 <h3>Why isn't it themed like the original installer?</h3>
 <p>I don't want an IP lawsuit. Microsoft own the original setup materials and explicitly state that the installer and it's contents are not to be redistributed
