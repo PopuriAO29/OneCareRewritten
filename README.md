@@ -28,9 +28,9 @@ yet to finalize the code, due to this, Windows XP (Specifically the x64 version)
 <p>I don't want an IP lawsuit. Microsoft own the original setup materials and explicitly state that the installer and it's contents are not to be redistributed
 or modified in any form. This installer is built ground up and only designed to look similar to the original installer.</p>
 <h3>Can I install OneCare without a disc or install media?</h3>
-<p>No, for me to add support to that would be piracy. Buy a disc off eBay if you're interested.</p>
+<p>No, for me to add support to that would be piracy despite this being abandonware. Please buy a disc off eBay if you're interested. I don't condone the copies people have uploaded bundled with this software. OneCare Rewritten should only ever be downloaded from here or the official website.</p>
 <h3>Is Windows 8/10/11 supported?</h3>
 <p>No, and it never will be for that matter of fact. This software is old and the installer is built soley for use on XP to Vista-era machines for people
 who want an authentic installation experience or to re-experience the blast from the past known as OneCare.</p>
 
-<p>Big thank-you to MJD and Archive.org for providing materials for me to create this.</p>
+<p>Big thank-you to MJD, people selling discs on eBay and Archive.org for providing materials for me to create this.</p>
